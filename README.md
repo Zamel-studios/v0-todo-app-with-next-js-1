@@ -1,10 +1,7 @@
  
 **[https://vercel.com/zamels-projects/v0-todo-app-with-next-js](https://vercel.com/zamels-projects/v0-todo-app-with-next-js)**
 
-## Build your app
-
-Continue building your app on:
-
+  
 **[https://v0.app/chat/projects/XPITAbzDFlb](https://v0.app/chat/projects/XPITAbzDFlb)**
 
 ## How It Works
